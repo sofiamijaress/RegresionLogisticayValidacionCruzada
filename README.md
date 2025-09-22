@@ -1,0 +1,1 @@
+# Regresi-nLog-sticayValidaci-nCruzada
