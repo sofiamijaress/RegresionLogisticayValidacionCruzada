@@ -44,6 +44,6 @@ La base de datos contiene los siguientes elementos:
 * Outcome: variable objetivo (1 = tiene diabetes, 0 = no).
 
 En este documento se incluyen los siguientes archivos: 
-* [Reporte en formato .ipynb]("A2.1_645700.ipynb")
-* [Reporte en formato .html]("A2.1_645700.html")
-* [Base de datos]("Diabetes.csv")
+* [Reporte en formato .ipynb](A2.1_645700.ipynb)
+* [Reporte en formato .html](A2.1_645700.html)
+* [Base de datos](Diabetes.csv)
