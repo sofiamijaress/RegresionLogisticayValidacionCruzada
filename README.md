@@ -1,6 +1,6 @@
 # Regresi-nLog-sticayValidaci-nCruzada
 
-Este repositorio contiene una práctica enfocada en la regresión logística aplicada a problemas de clasificación binaria Para lograrlo, se utilizó una base de datos con 200 observaciones publicada en [Kaggle](https://www.kaggle.com/datasets) y proporcionada por Wasiq Ali. La base original está en el siguiente [link]([https://www.kaggle.com/datasets/wasiqaliyasir/diabates-datas](https://www.kaggle.com/datasets/wasiqaliyasir/diabates-dataset)).  
+Este repositorio contiene una práctica enfocada en la regresión logística aplicada a problemas de clasificación binaria Para lograrlo, se utilizó una base de datos con 200 observaciones publicada en [Kaggle](https://www.kaggle.com/datasets) y proporcionada por Wasiq Ali. La base original está en el siguiente [link](https://www.kaggle.com/datasets/wasiqaliyasir/diabates-dataset).  
 
 El objetivo es evaluar la capacidad del modelo para predecir correctamente entre dos clases (0 o 1), utilizando diferentes métricas de desempeño como exactitud (accuracy), sensibilidad (recall), especificidad, precisión, F1-score, así como la curva ROC y el área bajo la curva (AUC).
 
